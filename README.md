@@ -1,5 +1,3 @@
-# autonomous-rover-6dof-lidar
-
 # 🤖 Autonomous Rover with 6-DOF Robotic Arm using LiDAR
 
 ## 📌 Overview
