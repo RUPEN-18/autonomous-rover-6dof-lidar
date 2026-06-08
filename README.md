@@ -1,49 +1,33 @@
 # 🤖 Autonomous Rover with 6-DOF Robotic Arm using LiDAR
 
-## 📌 Overview
-This project presents an autonomous mobile robot integrated with a 6-DOF robotic arm and LiDAR-based perception system. The robot is capable of navigating environments, detecting obstacles, and performing manipulation tasks.
+## 🚀 Overview
+This project presents an autonomous rover equipped with a **6-DOF robotic arm** and **LiDAR-based navigation system**, powered by Raspberry Pi.
 
----
-
-## 🚀 Key Features
+The system is capable of:
 - Autonomous navigation using LiDAR
-- 6-DOF robotic arm for object manipulation
 - Obstacle detection and avoidance
-- Real-time sensor processing
-- Integrated control system (movement + arm)
+- Object interaction using robotic arm
+- Real-time control and monitoring
 
 ---
 
-## 🧠 Technologies Used
-- Python / C++
+## 🛠️ Tech Stack
+- Python
+- Raspberry Pi
 - LiDAR Sensor
-- Arduino / Raspberry Pi
-- Motor Drivers
-- Embedded Systems
+- Servo Motors (6-DOF Arm)
+- OpenCV (optional vision)
+- GPIO Control
 
 ---
 
-## ⚙️ System Architecture
-- Perception Layer → LiDAR sensing
-- Processing Layer → Decision making
-- Control Layer → Motors + robotic arm
+## 📦 Features
+✔️ Autonomous movement  
+✔️ LiDAR mapping & obstacle detection  
+✔️ 6-DOF robotic arm control  
+✔️ Modular software architecture  
+✔️ Scalable for AI integration  
 
 ---
 
-## 📷 Demo
-(Add images/videos here)
-
----
-
-## 📈 Future Improvements
-- ROS2 integration
-- SLAM-based navigation
-- AI-based object recognition
-- Autonomous pick-and-place
-
----
-
-## 🎯 Applications
-- Warehouse automation
-- Search & rescue robotics
-- Industrial robotics
+## 📁 Project Structure
