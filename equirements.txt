@@ -1,5 +1,0 @@
-numpy
-opencv-python
-RPi.GPIO
-adafruit-circuitpython-servokit
-pyserial
