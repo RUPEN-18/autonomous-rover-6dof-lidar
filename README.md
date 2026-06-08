@@ -28,6 +28,3 @@ The system is capable of:
 ✔️ Modular software architecture  
 ✔️ Scalable for AI integration  
 
----
-
-## 📁 Project Structure
